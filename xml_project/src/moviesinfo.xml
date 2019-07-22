@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>code</code>
+    <title>kabir singh</title>
+    <release_date>
+    <day>12</day>
+    <month>7</month>
+    <year>2019</year>
+    
+    </release_date>
+    <theatre_name>pvr</theatre_name>
+    <city>pune</city>
+    <city>mumbai</city>
+    <city>delhi</city>
+  </movie>
+</movies>
+
+<movies>
+<code> 105</code>
+<title> sholey</title>
+<theatre> inox</theatre>
+</movies>
+
